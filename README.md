@@ -239,14 +239,6 @@ This project is licensed under the MIT License unless otherwise specified.
 
 ---
 
-## Authors
-
-**Bhav Gupta**
-
-GitHub: https://github.com/bgupta13
-
----
-
 ## Acknowledgements
 
 - Flask
